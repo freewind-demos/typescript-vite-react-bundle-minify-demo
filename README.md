@@ -1,9 +1,9 @@
-TypeScript Vite React Demo
+TypeScript Vite React Bundle Minify Demo
 ===========================
 
 ```
 npm install
-npm run demo
+npm run build
 ```
 
-It will open page on browser automatically.
+See generated assets in `src/dist`.

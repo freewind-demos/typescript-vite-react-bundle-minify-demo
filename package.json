@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "demo": "vite --open"
+    "build": "vite build"
   },
   "dependencies": {
     "react": "17.0.2",
